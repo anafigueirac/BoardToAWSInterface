@@ -1,0 +1,3 @@
+AWSIoTPythonSDK
+python-dotenv
+pyserial

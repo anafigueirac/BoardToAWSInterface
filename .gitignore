@@ -1,1 +1,4 @@
+/connect_device_package
 /venv
+__pycache__
+.env
